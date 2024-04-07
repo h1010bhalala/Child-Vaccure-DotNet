@@ -1,0 +1,8 @@
+D:\6th Sem\dot net\child\obj\Debug\child.csproj.AssemblyReference.cache
+D:\6th Sem\dot net\child\obj\Debug\child.csproj.CoreCompileInputs.cache
+F:\Heer Project\child\obj\Debug\child.csproj.AssemblyReference.cache
+F:\Heer Project\child\obj\Debug\child.csproj.CoreCompileInputs.cache
+D:\DotNet Project\child\obj\Debug\child.csproj.AssemblyReference.cache
+D:\DotNet Project\child\obj\Debug\child.csproj.CoreCompileInputs.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\child\obj\Debug\child.csproj.AssemblyReference.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\child\obj\Debug\child.csproj.CoreCompileInputs.cache

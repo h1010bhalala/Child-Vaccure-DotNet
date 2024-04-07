@@ -1,0 +1,217 @@
+F:\Heer Project\childCore\bin\Debug\net7.0\appsettings.Development.json
+F:\Heer Project\childCore\bin\Debug\net7.0\appsettings.json
+F:\Heer Project\childCore\bin\Debug\net7.0\childCore.exe
+F:\Heer Project\childCore\bin\Debug\net7.0\childCore.deps.json
+F:\Heer Project\childCore\bin\Debug\net7.0\childCore.runtimeconfig.json
+F:\Heer Project\childCore\bin\Debug\net7.0\childCore.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\childCore.pdb
+F:\Heer Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.IO.Hashing.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Heer Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.csproj.AssemblyReference.cache
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.AssemblyInfoInputs.cache
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.AssemblyInfo.cs
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.csproj.CoreCompileInputs.cache
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.MvcApplicationPartsAssemblyInfo.cs
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.MvcApplicationPartsAssemblyInfo.cache
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.childCore.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.build.childCore.props
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.childCore.props
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.childCore.props
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets.build.json
+F:\Heer Project\childCore\obj\Debug\net7.0\staticwebassets.development.json
+F:\Heer Project\childCore\obj\Debug\net7.0\scopedcss\bundle\childCore.styles.css
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.csproj.CopyComplete
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.dll
+F:\Heer Project\childCore\obj\Debug\net7.0\refint\childCore.dll
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.pdb
+F:\Heer Project\childCore\obj\Debug\net7.0\childCore.genruntimeconfig.cache
+F:\Heer Project\childCore\obj\Debug\net7.0\ref\childCore.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\appsettings.Development.json
+D:\DotNet Project\childCore\bin\Debug\net7.0\appsettings.json
+D:\DotNet Project\childCore\bin\Debug\net7.0\childCore.exe
+D:\DotNet Project\childCore\bin\Debug\net7.0\childCore.deps.json
+D:\DotNet Project\childCore\bin\Debug\net7.0\childCore.runtimeconfig.json
+D:\DotNet Project\childCore\bin\Debug\net7.0\childCore.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\childCore.pdb
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.csproj.AssemblyReference.cache
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.AssemblyInfoInputs.cache
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.AssemblyInfo.cs
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.csproj.CoreCompileInputs.cache
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets.build.json
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets.development.json
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.childCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.build.childCore.props
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.childCore.props
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.childCore.props
+D:\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\DotNet Project\childCore\obj\Debug\net7.0\scopedcss\bundle\childCore.styles.css
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.csproj.Up2Date
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.dll
+D:\DotNet Project\childCore\obj\Debug\net7.0\refint\childCore.dll
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.pdb
+D:\DotNet Project\childCore\obj\Debug\net7.0\childCore.genruntimeconfig.cache
+D:\DotNet Project\childCore\obj\Debug\net7.0\ref\childCore.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Azure.Core.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Azure.Identity.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Memory.Data.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\appsettings.Development.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\appsettings.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\childCore.exe
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\childCore.deps.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\childCore.runtimeconfig.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\childCore.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\childCore.pdb
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Azure.Core.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Azure.Identity.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.IO.Hashing.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Memory.Data.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\Yarp.ReverseProxy.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.csproj.AssemblyReference.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.AssemblyInfoInputs.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.AssemblyInfo.cs
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.csproj.CoreCompileInputs.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.MvcApplicationPartsAssemblyInfo.cs
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.MvcApplicationPartsAssemblyInfo.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets.build.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets.development.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.childCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.build.childCore.props
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.childCore.props
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.childCore.props
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\scopedcss\bundle\childCore.styles.css
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.csproj.Up2Date
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\refint\childCore.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.pdb
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\childCore.genruntimeconfig.cache
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\obj\Debug\net7.0\ref\childCore.dll
+D:\6th Sem\Project\DotNet Project2\DotNet Project\childCore\bin\Debug\net7.0\System.Collections.Immutable.dll
